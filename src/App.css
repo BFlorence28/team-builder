@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.Nav-link {
+  padding: 2rem;
+}
+
+.nav-item {
+  margin-top:1rem;
+}
+
+.App form {
+  display: flex;
+  height: auto;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.card {
+  width: 40%;
+  margin: 1rem;
+  text-align: center;
+  height: auto;
+}
